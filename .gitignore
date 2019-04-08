@@ -3,3 +3,4 @@
 erl_crash.dump
 *.ez
 .zenflow-log
+.elixir_ls
